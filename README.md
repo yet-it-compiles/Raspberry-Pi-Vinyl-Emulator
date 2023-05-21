@@ -121,10 +121,6 @@ This software uses the following open source packages:
 <br/>
 <h1>Support</h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="20" role="img" aria-label="Give The: Repo a ⭐"><script xmlns=""/><script xmlns=""/><script xmlns=""/><script xmlns=""/><title>Give The: Repo a ⭐</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="122" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="59" height="20" fill="#555"/><rect x="59" width="63" height="20" fill="#d1ab66"/><rect width="122" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="305" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="490">Give The</text><text x="305" y="140" transform="scale(.1)" fill="#fff" textLength="490">Give The</text><text aria-hidden="true" x="895" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="530">Repo a ⭐</text><text x="895" y="140" transform="scale(.1)" fill="#fff" textLength="530">Repo a ⭐</text></g></svg>
-
-<p>Or</p>
-
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Yet.It.Compiles)
 
 <!-- LICENSE SECTION -->
